@@ -1,16 +1,58 @@
-# React + Vite
+# 🚀 Portfolio – Mohammed Amine EL BOUKBIRI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
 
-Currently, two official plugins are available:
+Ce projet est un **portfolio personnel moderne** développé avec **React, Vite et Tailwind CSS**.
+Il présente mes compétences, mes projets, mon parcours académique ainsi que mes informations de contact.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉Le site est disponible ici :
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies utilisées
+
+* ⚛️ React
+* ⚡ Vite
+* 🎨 Tailwind CSS
+* 🧠 TypeScript
+* 🎯 React Router
+* 🎭 Lucide Icons
+
+---
+
+## ✨ Fonctionnalités
+
+* 🏠 Page d’accueil moderne
+* 💼 Section Projets avec cartes dynamiques
+* 🧠 Compétences affichées en badges
+* 🎓 Formation académique
+* 📜 Certifications
+* 📞 Page Contact
+* 📱 Design responsive (mobile + desktop)
+
+---
+
+## 📂 Structure du projet
+
+<img width="238" height="965" alt="Screenshot 2026-03-20 at 11 29 48" src="https://github.com/user-attachments/assets/a4d3615b-9f25-446b-96d2-c0b18134b43e" />
+
+
+<img width="240" height="235" alt="Screenshot 2026-03-20 at 11 30 06" src="https://github.com/user-attachments/assets/c04aa8f8-6240-4af3-ae86-b8178cf49a62" />
+
+---
+
+
+## 📊 Projets inclus
+
+* 📦 Gestion de stock (Spring Boot / MySQL)
+* 🎓 StudentHub (Spring Boot + React)
+* 👥 Gestion utilisateurs & produits (Jakarta EE)
+* 🍽️ Gestion de restaurant (Java Swing)
+* 🌐 Application ENCG El Jadida
+
+---
