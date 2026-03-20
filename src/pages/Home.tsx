@@ -21,7 +21,7 @@ export default function Home() {
             </span>
 
                         <h1 className="section-title">
-                            Salut, moi c’est{" "}
+                            Salut, c’est{" "}
                             <span className="gradient-text">{profile.name}</span>
                         </h1>
 

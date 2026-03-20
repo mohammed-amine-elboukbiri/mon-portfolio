@@ -28,9 +28,10 @@ export const certifications: Certification[] = [
         title: "Développement Front-End moderne avec React",
         issuer: "MLIAEdu",
         issueDate: "2026-03",
+        credentialUrl: "https://mliaedu.toubkalit.com/verify-certificate/26-7f4e7e34-06b3-45fc-ab65-afee61d97529-762109",
         skills: ["React", "JavaScript", "HTML", "CSS"],
         tags: ["Frontend", "React"],
-        image: "/certs/cncf-cka.webp",
+        image: "/certs/react.png",
         imageAlt: "Certificat Développement Front-End moderne avec React",
         status: "active"
     }
